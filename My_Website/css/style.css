@@ -1,0 +1,108 @@
+
+
+
+Body
+
+{color:#9A7C6E;
+font-family:fantasy; 
+background-color: #AF3342;
+text-align: center;
+text-size-adjust: 12px;
+
+}
+H1
+ {
+color: #9A7C6E;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+}
+H2
+{
+color:black;
+text-align: center;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: 24px;
+}
+li{
+    display: inline;
+    list-style-type: none;
+    color:purple;
+    background-color:rosybrown;
+    border-left: 6px groove;
+    margin-left: 0em;
+    margin-top: 0em;
+    padding-top: 0em;
+    padding-right: 0em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    border-right: 6px groove;
+    border-bottom: 6px groove;
+    border-top: 6px groove;
+}
+a:link{
+    color:darkorchid;
+    text-decoration: none;
+}
+Header {
+    Height: 75px;
+    Margin-top: 1em;
+    Margin-bottom: 10px;
+    Border: solid thin black;
+    Background-color: #8B322A;
+    }
+    Article {
+        Width: auto;
+        Margin-left: 200px; 
+        Border: solid thin black;
+        Background-color:#ED98B4; 
+        Margin-top:  20px; 
+        Margin-bottom: 20px; 
+        }
+        Footer {
+            Width: auto; 
+            Height: 75px;
+            Margin-left: 10px;
+            Clear: both;
+            Border: solid thin black;
+            Background-color:#8B322A
+            ;
+            } 
+  body{
+      width: auto;
+  }          
+
+
+img{text-align: center;
+opacity: 75%;}
+ul{text-align: center;}
+p{
+    color: darkred;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: outset;
+    border-color: black;
+
+    
+
+}
+#sidebar {
+    width: 200px; 
+    Float: left;
+    Margin-left: 20px; 
+    Margin-right: 20px;
+    Text-align: center;
+    Background: #9A3432;
+    }
+    
+A:link {
+    color:darkred;}
+
+    /*new links are red */
+A:active {color:rgb(59, 6, 83);} /* active links are blue */
+A:visited {color:rgb(92, 17, 48);} /* visited links are purple */ 
+A:hover {color:rgba(255, 0, 85, 0.562);} /* Hover link are dark pink. */
+
+
+
+    
+
